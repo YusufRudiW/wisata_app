@@ -1,0 +1,86 @@
+{
+  "kategori_home": [
+     {
+        "nama_kategori":"wisata",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+    {
+        "nama_kategori":"desa wisata",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+    {
+        "nama_kategori":"kuliner",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+     {
+        "nama_kategori":"umkm",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+    {
+        "nama_kategori":"akomidasi",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+    {
+        "nama_kategori":"paket wisata",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     },
+    {
+        "nama_kategori":"info travel",
+        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
+     }
+ ],
+  "favorit_home": [
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"GOA Seplawan",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     }
+ ],
+  "rekomendasi_home": [
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"Rekreasi",
+        "nama_wisata":"Kolam Arta Tirta",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     }
+ ],
+  "paket_wisata_home": [
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "alamat":"Ketawang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "alamat":"Jatimalang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"Rekreasi",
+        "nama_wisata":"Kolam Arta Tirta",
+        "alamat":"Purworejo",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     }
+ ]
+}
