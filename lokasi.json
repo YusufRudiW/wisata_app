@@ -1,0 +1,132 @@
+{
+  "data":[
+      {
+        "id": "3306040",
+        "regency_id": "3306",
+        "name": "BAGELEN",
+        "alt_name": "Bagelen, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.82284,
+        "longitude": 110.03306
+      },
+      {
+        "id": "3306070",
+        "regency_id": "3306",
+        "name": "BANYU URIP",
+        "alt_name": "Banyu Urip, Sawahan, Surabaya City, East Java, Indonesia",
+        "latitude": -7.2719,
+        "longitude": 112.71968
+      },
+      {
+        "id": "3306080",
+        "regency_id": "3306",
+        "name": "BAYAN",
+        "alt_name": "Bayan, North Lombok Regency, West Nusa Tenggara, Indonesia",
+        "latitude": -8.30558,
+        "longitude": 116.39578
+      },
+      {
+        "id": "3306160",
+        "regency_id": "3306",
+        "name": "BENER",
+        "alt_name": "Bener, Kabupaten Purworejo, Jawa Tengah, Indonesia",
+        "latitude": -7.61667,
+        "longitude": 110.05
+      },
+      {
+        "id": "3306130",
+        "regency_id": "3306",
+        "name": "BRUNO",
+        "alt_name": "Bruno, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.56085,
+        "longitude": 109.91396
+      },
+      {
+        "id": "3306100",
+        "regency_id": "3306",
+        "name": "BUTUH",
+        "alt_name": "Butuh, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.72783,
+        "longitude": 109.86633
+      },
+      {
+        "id": "3306140",
+        "regency_id": "3306",
+        "name": "GEBANG",
+        "alt_name": "Gebang, , Purworejo Regency, Central Java, Indonesia",
+        "latitude": -6.82804,
+        "longitude": 108.7304
+      },
+      {
+        "id": "3306145",
+        "regency_id": "3306",
+        "name": "GRABAG",
+        "alt_name": "Grabag, , Purworejo Regency, Central Java, Indonesia",
+        "latitude": -6.82804,
+        "longitude": 108.7304
+      },
+      {
+        "id": "3306050",
+        "regency_id": "3306",
+        "name": "KALIGESING",
+        "alt_name": "Kaligesing, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.73689,
+        "longitude": 110.10452
+      },
+      {
+        "id": "3306120",
+        "regency_id": "3306",
+        "name": "KEMIRI",
+        "alt_name": "Kemiri, Kerep, Kemiri, Kabupaten Purworejo, Jawa Tengah, Indonesia",
+        "latitude": -7.68333,
+        "longitude": 109.88333
+      },
+      {
+        "id": "3306090",
+        "regency_id": "3306",
+        "name": "KUTOARJO",
+        "alt_name": "Kutoarjo, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.72067,
+        "longitude": 109.90801
+      },
+      {
+        "id": "3306150",
+        "regency_id": "3306",
+        "name": "LOANO",
+        "alt_name": "Loano, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.67201,
+        "longitude": 110.06283
+      },
+      {
+        "id": "3306020",
+        "regency_id": "3306",
+        "name": "NGOMBOL",
+        "alt_name": "Ngombol, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.82751,
+        "longitude": 109.93778
+      },
+      {
+        "id": "3306110",
+        "regency_id": "3306",
+        "name": "PITURUH",
+        "alt_name": "Pituruh, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.64768,
+        "longitude": 109.8187
+      },
+      {
+        "id": "3306030",
+        "regency_id": "3306",
+        "name": "PURWODADI",
+        "alt_name": "Purwodadi, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.08721,
+        "longitude": 110.91341
+      },
+      {
+        "id": "3306065",
+        "regency_id": "3306",
+        "name": "PURWOREJO",
+        "alt_name": "Purworejo, Purworejo Sub-District, Purworejo Regency, Central Java, Indonesia",
+        "latitude": -7.71358,
+        "longitude": 110.00783
+      }
+    ]
+}
