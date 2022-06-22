@@ -1,0 +1,54 @@
+{
+  "result": [
+     {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Ketang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"GOA Seplawan",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Taman Sidanang",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Bukit Besek",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Curug Muncar",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Bukit Sikepel",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Alun Alun Purworejo",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Kolam Arta Tirta",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Grabag",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+     },
+ ],
+}
