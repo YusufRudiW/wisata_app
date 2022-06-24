@@ -85,6 +85,92 @@
               "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
             }
         ]
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Pantai Dewa Ruci",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
+        ]
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"De Loano",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
+        ]
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Alun Alun",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
+        ]
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Arta Tirta",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
+        ]
+     },
+    {
+        "nama_kategori":"wisata",
+        "nama_wisata":"Goa Seplawan",
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
+        ]
      }
  ]
 }
