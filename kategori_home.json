@@ -33,17 +33,56 @@
      {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Dewa Ruci",
-        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
      },
     {
         "nama_kategori":"wisata",
         "nama_wisata":"Pantai Ketang",
-        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
      },
     {
         "nama_kategori":"wisata",
         "nama_wisata":"GOA Seplawan",
-        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+        "image":"https://regragr0up.github.io/wisata_app/image/img.jpg",
+        "image_array":[
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            },
+            {
+              "image":"https://regragr0up.github.io/wisata_app/image/img.jpg"
+            }
      }
  ],
   "rekomendasi_home": [
