@@ -13,19 +13,7 @@
         "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      },
      {
-        "nama_kategori":"umkm",
-        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
-     },
-    {
-        "nama_kategori":"akomidasi",
-        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
-     },
-    {
-        "nama_kategori":"paket wisata",
-        "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
-     },
-    {
-        "nama_kategori":"info travel",
+        "nama_kategori":"hotel",
         "icon":"https://regragr0up.github.io/wisata_app/image/pngegg.png"
      }
  ],
